@@ -6,4 +6,4 @@ The project is being developed using ReactJS.
 
 ## HOME PAGE-task 1
 
-![alt text](https://ibb.co/n3SBCxH)
+![alt text](https://i.ibb.co/n3SBCxH/20200616-202150.jpg)
