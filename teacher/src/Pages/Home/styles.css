@@ -1,0 +1,39 @@
+ body {
+     background-color: #378A6A;
+     vertical-align: middle;
+     justify-content: center;
+     align-items: center;
+     justify-content: center;
+}
+
+.div {
+    display: flex;
+    flex-direction: row;
+    background-color: #267356;
+    justify-content: space-between;
+    height: 642px;
+    
+}
+
+.selector {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    text-align: center;
+    margin-right: 1%;
+}
+
+.selection {
+    background-color: black;
+    height: 86px;
+    margin-top: 1px;
+}
+
+.img-content {
+    background-color: black;
+    width: 600px;
+}
+
+
+
