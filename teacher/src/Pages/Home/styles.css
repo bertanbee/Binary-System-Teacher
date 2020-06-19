@@ -4,30 +4,39 @@
      justify-content: center;
      align-items: center;
      justify-content: center;
+     color: #000a06;
+     font-family: 'arial';
 }
 
 .div {
     display: flex;
     flex-direction: row;
-    background-color: #267356;
     justify-content: space-between;
-    height: 642px;
     
 }
 
 .selector {
-    background-color: white;
+    background-color: #0E563B;
     display: flex;
     flex-direction: column;
     width: 600px;
     text-align: center;
     margin-right: 1%;
+    border-radius: 3px;
+    min-height: auto;
 }
 
 .selection {
-    background-color: black;
-    height: 86px;
+    background-color: #003924;
+    height: 92.6px;
     margin-top: 1px;
+    border-radius: 3px;
+    transition: 0.5s
+}
+
+.selection:hover {
+    background-color: #00724e;
+    transition: 0.5s;
 }
 
 .img-content {
@@ -35,5 +44,14 @@
     width: 600px;
 }
 
+.icon {
+    margin-left: 300px;
+    transition: 0.25s;
+}
 
+.icon:hover {
+    cursor: pointer;
+    color: #99ffdf;
+    transition: 0.25s;
+}
 
